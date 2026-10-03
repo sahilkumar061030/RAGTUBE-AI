@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.env
+
+# Node
+node_modules/
+.next/
+out/
+
+# Data
+data/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Documentation / Interview Prep (Keep private - do not publish to GitHub)
+INTERVIEW_GUIDE.md
+interview_preparation.md
+*.md
+!README.md
